@@ -1,4 +1,4 @@
-README
+README.md
 The AirBnB Clone Project
 AirBnB Logo
 
